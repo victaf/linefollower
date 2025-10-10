@@ -8,5 +8,6 @@
 |3|Bluetooth comunicatie module|Bluetooth HC-05 module RF transceiver Master en Slave|nieuw|€10,5|1|€10,5|
 |4|lijn detectie sensor|8x IR Lijn Tracking Module (HY-S301)|nieuw|€3,5|1|€3,5|
 |5|microcontroller|atmega32u4 leonardo ontwikkelbord WPB103|recup|€19,90|1|€19,90|
+|----------|----|------------|-----------|---------|------|---------|
 |6|wielen|Pololu wiel 32×7 mm paar - wit|nieuw|€4,25|1|€4,25|
 |7|prototype board|Testprint 50x100mm met soldeereilandjes|recup|€1,15|1|€1,15|
