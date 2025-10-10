@@ -8,6 +8,7 @@ minimale hard- & software + stappenplan dat aantoont dat 2 motoren onafhankelijk
 -DRV8833 Hbrug module
 -2x6V DC motoren
 -voeding(bvb 2*18650 batterijen)
+-
 
 ## stappenplan
 
