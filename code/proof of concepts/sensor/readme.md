@@ -8,6 +8,6 @@ minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk va
   - VCC en IR aan 5V
   - GND aan GND
 ### 2. software:
-  - Upload sensor_POC naar de arduino
+  - Upload sensor_POC naar de arduino.
 ### 3. testen:
-  - Op de seriele monitor zou he de waarde van elk van de 6 sensoren moeten zien staan
+  - Op de seriele monitor zou he de waarde van elk van de 6 sensoren moeten zien staan.
