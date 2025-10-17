@@ -9,5 +9,5 @@ minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk va
   - GND aan GND
 2. ### software:
   - Upload sensor_POC naar de arduino
-### 3.testen:
+### 3. testen:
   - Op de seriele monitor zou he de waarde van elk van de 6 sensoren moeten zien staan
