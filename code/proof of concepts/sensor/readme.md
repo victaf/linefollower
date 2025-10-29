@@ -10,4 +10,4 @@ minimale hard- en software die aantoont dat minimaal 6 sensoren onafhankelijk va
 ### 2. software:
   - Upload sensor_POC naar de arduino.
 ### 3. testen:
-  - Op de seriele monitor zie je een array van nullen en één 1. De 1 stelt de posietie van de zwarte lijn voor. Beweeg de sensor over de testbaan om te testen of hij werkt.
+  - Op de seriele monitor zie je een array van nullen en één 1. De 1 stelt de positie van de zwarte lijn voor. Beweeg de sensor over de testbaan om te testen of hij werkt. in het eindvak zullen alle plaatsen in de arrray 1 zijn.
