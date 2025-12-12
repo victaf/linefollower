@@ -16,4 +16,6 @@
 |11| headers vrouwelijk|Shield Stacking headers voor Arduino|nieuw|€2,75|1|€2,75|
 |12| kabel voor te solderen| 0.25mm²| recup| €20|1|€20|
 |13| krimpkous| 4,5mm|recup|€1,45|1|€1,45|
-||||totaal|€36,94|totaal inclusief recup|€85,24|
+|14| 18650 houder| /| nieuw|€8,50|3|25.5|
+|15| lader voor 18650|5 V 18650 Lithiumbatterij Oplaadbord TP4056|recup|€2,20|1|€2,20|
+||||totaal|€62,44|totaal inclusief recup|€112,94|
