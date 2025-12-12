@@ -2,26 +2,26 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![A description of my image](images/foto.jpg)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: Arduino leonardo
 
-motors: 
+motors: 30:1
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: HY-S301
 
-batteries:
+batteries: 2x18650
 
-wireless communication:
+wireless communication: HC-05
 
-distance sensor - motors:
+distance sensor - motors: +- 15cm
 
-weight:
+weight: ?
 
-speed: 
+speed: 0,7m/s
 
